@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="micro_padding">4dp</dimen>
+    <dimen name="nano_padding">2dp</dimen>
+
+    <!-- text size -->
+    <dimen name="text_size_micro">10sp</dimen>
+    <dimen name="text_size_mini">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_extra_large">22sp</dimen>
+
+    <dimen name="radius">5dp</dimen>
+</resources>
